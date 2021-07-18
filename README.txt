@@ -1,3 +1,17 @@
+The following were implemented:
+
+
+__> Preprocessing and setting up eval metrics
+
+__> VSM model
+
+__>LSA model
+
+__>Kmeans and LDA
+
+
+**********************************************************************
+
 This folder contains the template code for a search engine application. 
 
 main.py - The main module that contains the outline of the Search Engine. Do not change anything in this file.
